@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The ways of the programming to become a computer master**
 
-- 👨‍💻 Learn more about me [https://alanprodev.com](https://alanprodev.com)
+- 👨‍💻 Learn more about me [https://alanpro.dev](https://alanpro.dev)
 
 - 💬 Ask me about **PHP🐘, HTML5🌐, C++🔵, C#🔷 and Python🐍**
 
